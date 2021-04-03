@@ -2,7 +2,7 @@ package Algoritma_Pencarian;
 import java.util.Scanner;
 public class soal2_Binary {
     public static void main(String[] args){
-        System.out.println("Rizqon Fadillah (20090140)" + "\n");
+        System.out.println("Agung budi (20090019)" + "\n");
         int A [] = {2, 4, 6, 8, 10, 12, 14, 16, 18, 20};
         int search ;
         int Indeks1 = 0; // 0
